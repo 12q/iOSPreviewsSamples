@@ -11,9 +11,9 @@ Can be imported into the iMovie as a start scene to make output video an exact d
 | iPhone 15 Plus | `1920 x 886 pixels (landscape)` |
 | iPhone 14 Pro Max |  |
 
-![video](/6.7-landscape-1920x886.mov)
+![video](/6.7-landscape-1920x886(H.264).mov)
 
-![video](/6.7-portrait-886x1920.mov)
+![video](/6.7-portrait-886x1920(H.264).mov)
 
 ## 6.5" Display
 
@@ -27,9 +27,9 @@ Can be imported into the iMovie as a start scene to make output video an exact d
 | iPhone XS Max |  |
 | iPhone XR |  |
 
-![video](/6.5-landscape-1920x886.mov)
+![video](/6.5-landscape-1920x886(H.264).mov)
 
-![video](/6.5-portrait-886x1920.mov)
+![video](/6.5-portrait-886x1920(H.264).mov)
 
 ## 6.1" Display
 
@@ -39,9 +39,9 @@ Can be imported into the iMovie as a start scene to make output video an exact d
 | iPhone 15 | `1920 x 886 pixels (landscape)` |
 | iPhone 14 Pro |  |
 
-![video](/6.1-landscape-1920x886.mov)
+![video](/6.1-landscape-1920x886(H.264).mov)
 
-![video](/6.1-portrait-886x1920.mov)
+![video](/6.1-portrait-886x1920(H.264).mov)
 
 ## 5.8" Super Retina Display
 
@@ -58,9 +58,9 @@ Can be imported into the iMovie as a start scene to make output video an exact d
 | iPhone XS | |
 | iPhone X | |
 
-![video](/5.8-landscape-1920x886.mov)
+![video](/5.8-landscape-1920x886(H.264).mov)
 
-![video](/5.8-portrait-886x1920.mov)
+![video](/5.8-portrait-886x1920(H.264).mov)
 
 ## 5.5" Display
 
@@ -70,9 +70,9 @@ Can be imported into the iMovie as a start scene to make output video an exact d
 | iPhone 7 Plus | `1920 x 1080 pixels (landscape)` |
 | iPhone 6s Plus |  |
 
-![video](/5.5-landscape-1920x1080.mov)
+![video](/5.5-landscape-1920x1080(H.264).mov)
 
-![video](/5.5-portrait-1080x1920.mov)
+![video](/5.5-portrait-1080x1920(H.264).mov)
 
 ## 4.7" Display
 
@@ -84,9 +84,9 @@ Can be imported into the iMovie as a start scene to make output video an exact d
 | iPhone 6s |  |
 | iPhone 6 |  |
 
-![video](/4.7-landscape-1334x750.mov)
+![video](/4.7-landscape-1334x750(H.264).mov)
 
-![video](/4.7-portrait-750x1334.mov)
+![video](/4.7-portrait-750x1334(H.264).mov)
 
 ## 4" Display
 
@@ -95,6 +95,6 @@ Can be imported into the iMovie as a start scene to make output video an exact d
 | iPhone SE (1st generation) | `1080 x 1920 pixels (portrait)` |
 |  | `1920 x 1080 pixels (landscape)` |
 
-![video](/4.0-landscape-1920x1080.mov)
+![video](/4.0-landscape-1920x1080(H.264).mov)
 
-![video](/4.0-portrait-1080x1920.mov)
+![video](/4.0-portrait-1080x1920(H.264).mov)
