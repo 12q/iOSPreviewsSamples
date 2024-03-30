@@ -3,6 +3,8 @@
 Here's the Video App Preview samples for the AppStore.<br>
 Can be imported into the iMovie as a start scene to make output video an exact dimensions.
 
+[App preview specifications](https://developer.apple.com/help/app-store-connect/reference/app-preview-specifications/)
+
 ## 6.7" Display
 
 | Devices | Accepted resolutions |
